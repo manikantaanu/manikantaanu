@@ -12,6 +12,5 @@ manikantaanu/manikantaanu is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools ###
-
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+   
+   *  Html, css, Javascript, Bootstrap, Material UI, Materializecss, Visual Studio, Mongodb, React-Js, Express.js 
