@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools ###
 
-<code><img height="30" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
